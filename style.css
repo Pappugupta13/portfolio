@@ -7,6 +7,12 @@
 body{
     background-color: rgb(254, 199, 215);
 }
+.hello-pappu-kumar{
+    font-size: 45px;
+}
+.hello-pappu{
+    font-size: 35px;
+}
 .header-container{
     margin-top: 80px;
     width: 100%;
