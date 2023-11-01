@@ -77,3 +77,17 @@ a{
     width: 45px;
     margin: 3px;
 }
+.aboutus{
+    text-align: start;
+}
+@media screen and (max-width:367px){
+    .hello-pappu-kumar{
+        font-size: 40px;
+    }  
+    .hello-pappu{
+        font-size: 30px;
+    }  
+    .aboutus{
+        text-align: center;
+    }
+}
