@@ -1,0 +1,72 @@
+.one{
+    width: 260px;
+    height: 260px;
+    border-radius: 100%;  
+    box-shadow: 1px 1px 10px black;
+}
+body{
+    background-color: rgb(254, 199, 215);
+}
+.header-container{
+    margin-top: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+.text-container{
+    margin: 10px;
+}
+.hello-pappu{
+    display: flex;
+    flex-wrap: wrap;
+}
+.icon-tech{
+height: 100px;
+width: 100px;
+margin: 10px;
+}
+.tech-container{
+    width: 100%;
+}
+.tech-i-know{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top:110px ;
+    text-align: center;
+    gap: 20px;
+}
+.about-conatiner{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    gap:20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.footer{
+    width:100%;
+    display: grid;
+    place-items: center;
+    background-color: coral;
+    height: 150px;
+    margin-top: 50px;
+ padding: 5px;
+ margin-left: -5PX;
+
+}
+.bi{
+    height: 45px;
+    width: 45px;
+    margin: 3px;
+}
